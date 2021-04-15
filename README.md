@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![PascalSun](https://github-profile-trophy.vercel.app/?username=PascalSun&row=1)](https://github.com/PascalSun/github-profile-trophy)
+[![PascalSun's github stats](https://github-readme-stats.vercel.app/api?username=PascalSun&theme=blue-green)](https://github.com/PascalSun/github-readme-stats)
 <!--
 **PascalSun/PascalSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
