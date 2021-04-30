@@ -1,10 +1,12 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
+
+#### Who am I?
 
 Full Stack Developer, Frontend with React, React Native, Backend with Django, Node, Hasura, Database with MySQL, PostgreSQL, and Cloud Platform with AWS/GCP/Azure.
 Currently working on a web-based traffic data analytics and survey management tool, which helps local councils automate the process from planning, gathering, transforming, processing to analyzing road traffic data within their LGA, and present results in different ways: interactive map views, chart graphs, spreadsheet reports, and third- party integration export like IntroMaps, etc.
 
 Now, the foundation of the system has already completed, the system has just reached the milestone of 1 billion vehicle records. Although we have provided a lot of analytics results based on the industrial requirements and standards, I believe we can do more with the new technology like Geospatial Graph-based Data Warehouse by analyzing the whole dataset as a network, deliver more useful and diverse analytic results. So, I am interested in pursuing a PhD degree in Data Science area and start with Geospatial Graph-Based Data Warehouse for my PhD prelim research recently.
+
 
 
 [![PascalSun's github stats](https://github-readme-stats.vercel.app/api?username=PascalSun&theme=blue-green)](https://github.com/PascalSun)
