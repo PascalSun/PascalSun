@@ -1,1 +1,1 @@
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=PascalSun)](https://www.linkedin.com/in/pascalsun23/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PascalSun&show_icons=true&theme=default)](https://github.com/PascalSun)
