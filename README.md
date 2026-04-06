@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PascalSun&show_icons=true&theme=default)](https://github.com/PascalSun)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PascalSun)](https://git.io/streak-stats)
